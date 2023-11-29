@@ -1,0 +1,12 @@
+{
+    "name": "Jasper Nillos",
+    "short_name": "Per",
+    "start_url": "Jasp.com",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Jasper's Portfolio",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+    
+}
